@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4AD9-5ADD
+
+ Directory of C:\Users\Admin\Desktop\test project
+
+09-08-2017  09:12    <DIR>          .
+09-08-2017  09:12    <DIR>          ..
+09-08-2017  09:08    <DIR>          .git
+09-08-2017  09:12                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  152,876,212,224 bytes free
